@@ -1,5 +1,7 @@
 # Project Kaggle Competition
 
+<img src="https://github.com/AnaChaparro/Project-Kaggle-Competition/blob/main/img/bank-number-usa-bills-dollar.jpg?raw=true"> 
+
 ## Tabla de contenido:
 1. [Introducción](#introducción)
 2. [Exploración de los datos](#exploración-de-los-datos)
