@@ -1,4 +1,4 @@
-# Project Kaggle Competition
+# Project Kaggle Competition - SALARY PREDICTION
 
 <img src="https://github.com/AnaChaparro/Project-Kaggle-Competition/blob/main/img/bank-number-usa-bills-dollar.jpg?raw=true"> 
 
